@@ -11,7 +11,7 @@ Setup Guide:
 
 If everything was succesful then you should receive a 'Monitoring CS:GO rounds' message followed by an 'I am ready!' message
 
-It will look like this, but with an asterisk next to the team you're currently on 
+It will look like this, but with an asterisk next to the team you're currently on  
 ![image](https://i.imgur.com/6O0FbQy.png)
 
 Note: if you are running as a selfbot you will not be able to see the game on yourself, you may also need to disable automatic game activity in the discord client, haven't tested which one displays when both it and the bot are active
